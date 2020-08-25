@@ -87,18 +87,9 @@
 					"gambar_url":"https:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/hotel\/2.jpg",
 					"tarif":"Rp.100.000 - Rp.1.500.000",
 					"kategori":"karaoke"
-				},
-				
-				{
-					"id":9,
-					"nama":"The kampung",
-					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
-					"nomor_telp":"+62281634321",
-					"kordinat":"-7.4155654, 109.236551",
-					"gambar_url":"https:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/hotel\/2.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
-					"kategori":"karaoke"
 				}
+				
+				
 				
 			]
 }
