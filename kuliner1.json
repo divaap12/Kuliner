@@ -7,7 +7,7 @@
 					"alamat":"Jl. RA Wiryaatmaja No.15, Pesayangan, Kedungwuluh, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
 					"nomor_telp":"+62281639353",
 					"kordinat":"-7.4224861, 109.2238901",
-					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
+					"gambar_url":"https://raw.githubusercontent.com/divaap12/Kuliner/master/soto%20sokaraja.jpg",
 					"tarif":"Rp.20.000",
 					"jam":"08.30 - 20.30",
 					"kategori":"Kuliner",
@@ -17,15 +17,16 @@
 
 				{
 					"id":2,
-					"nama":"Gethuk Goreng",
-					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nama":"Gethuk Goreng Haji Tohirin",
+					"alamat":"Jl. Jend. Soedirman No.151, Dusun II, Sokaraja Tengah, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53181",
 					"nomor_telp":"+62281634321",
-					"kordinat":"-7.4155654, 109.236551",
-					"gambar_url":"https://i.vimeocdn.com/video/723228188_1280x720.jpg",
-					"tarif":"Rp.20.000",
-					"kategori":"karaoke",
+					"kordinat":"-7.4578247, 109.286326",
+					"gambar_url":"https://raw.githubusercontent.com/divaap12/Kuliner/master/gethuk%20goreng.jpg",
+					"tarif":"Rp.10.000/4 ons",
+					"jam":"Buka 24jam",
+					"kategori":"Kuliner",
 					"desc":"coba-coba",
-					"fasilitas":"kamar mandi dalam"
+					"fasilitas":"Tidak ada keterangan"
 				}
 				
 				
