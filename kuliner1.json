@@ -11,7 +11,7 @@
 					"tarif":"Rp.100.000 - Rp.1.500.000",
 					"kategori":"karaoke",
 					"desc":"coba-coba",
-					"fasilitas":"kamar mandi dalam";
+					"fasilitas":"kamar mandi dalam"
 				},
 
 				{
@@ -22,7 +22,9 @@
 					"kordinat":"-7.4155654, 109.236551",
 					"gambar_url":"https://i.vimeocdn.com/video/723228188_1280x720.jpg",
 					"tarif":"Rp.100.000 - Rp.1.500.000",
-					"kategori":"karaoke"
+					"kategori":"karaoke",
+					"desc":"coba-coba",
+					"fasilitas":"kamar mandi dalam"
 				}
 				
 				
