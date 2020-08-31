@@ -3,25 +3,26 @@
 			[
 				{
 					"id":1,
-					"nama":"Rica-Rica",
-					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
-					"nomor_telp":"+62281628000",
-					"kordinat":"-7.417284, 109.244905",
+					"nama":"Soto Sokaraja",
+					"alamat":"Jl. RA Wiryaatmaja No.15, Pesayangan, Kedungwuluh, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
+					"nomor_telp":"+62281639353",
+					"kordinat":"-7.4224861, 109.2238901",
 					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
-					"kategori":"karaoke",
-					"desc":"coba-coba",
-					"fasilitas":"kamar mandi dalam"
+					"tarif":"Rp.20.000",
+					"jam":"08.30 - 20.30",
+					"kategori":"Kuliner",
+					"desc":"Soto Sokaraja atau yang lebih dikenal oleh orang Banyumas dengan sebutan Sroto Sokaraja merupakan salah satu makanan khas Banyumas yang patut dicoba. Berbeda dengan makanan soto dari daerah lain, salah satu ciri khas yang membedakan Soto Sokaraja dengan soto lainnya adalah penggunaan ketupat dan sambel yang terbuat dari kacang. Sambel kacang ini tidak terlalu pedas, sehingga walaupun kita membubuhkan banyak sambel kacang, tidak akan terasa terlalu pedas.",
+					"fasilitas":"Tidak ada keterangan"
 				},
 
 				{
 					"id":2,
-					"nama":"The President",
+					"nama":"Gethuk Goreng",
 					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
 					"nomor_telp":"+62281634321",
 					"kordinat":"-7.4155654, 109.236551",
 					"gambar_url":"https://i.vimeocdn.com/video/723228188_1280x720.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
+					"tarif":"Rp.20.000",
 					"kategori":"karaoke",
 					"desc":"coba-coba",
 					"fasilitas":"kamar mandi dalam"
