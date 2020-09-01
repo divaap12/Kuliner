@@ -126,6 +126,62 @@
 					"kategori":"Cafe",
 					"desc":"Bagi penikmat kopi di Purwokerto, nama Praketa Kopi pasti sudah tidak asing lagi. Sebuah kedai kopi di dekat kampus UNSOED yang hampir selalu ramai pengunjung dari berbagai kalangan. Dari yang sekedar menikmati kopi menghabiskan waktu, mengerjakan tugas kuliah, kerjaan atau menunggu partner, ditemani kopi dan cemilan dan free wifi. Di Praketa Kopi bisa pilih ruang AC buat ngadem dan bebas asap rokok, non AC dan outdoor kalo mau nyambi ngerokok. Selain kopi yang semuanya manual brew, ada beberapa cemilan / makanan berat kalo kamu kelaparan. Suasananya cukup asyik dan buat yang suka main sosmed, tempat ini cukup instagramable, apalagi didukung koneksi internet gratis, poto langsung eksis di sosmed deh heheh. Oh iya, Praketa Kopi buka setiap hari senin – minggu dari jam 9 pagi hingga 11.30 malam.",
 					"fasilitas":"Wifi Gratis, Ruangan Ac"
+				},
+				
+				{
+					"id":10,
+					"nama":"Kargloss Autocare & Cafe",
+					"alamat":"Jl. Raya Baturraden KM 5 Pabuaran - Purwokerto Utara, Karang Blimbing, Pabuaran, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53124",
+					"nomor_telp":"+62818262684",
+					"kordinat":"7.3869062, 109.2409799",
+					"gambar_url":"https://nyero.id/wp-content/uploads/2018/02/Nongkrong-Asik-di-Kargloss-Cafe-Purwokerto.png",
+					"tarif":"-",
+					"jam":"07.00 - 23.00",
+					"kategori":"Cafe",
+					"desc":"Ada lai nih cafe asyik untuk nongki-nongki cantik di Purwokerto yakni Kargloss Cafe. kargloss cafe sebenarnya tidak jauh dari pusat Universitas Jenderal Sudirman sekitar 3 kilometer. Selain tempat nongkrong, Cargloss cafe ini juga menyediakan jasa cuci mobil sehingga pengunjung bisa ngopi santai semabri menunggu kendaraannya dibersihkan. Bangunan Cafe ini terdiri dari 2 lantai, sehingga pengunjung memiliki pilihan menyesuaikan mood. Ragam menu yang tersedia di sini di antaranya terdapat aneka menu kopi seperti hot classic coffee, coffee staste special Kargloss, espresso local,cappucino local, chocoholic,. Sedangkan untuk menu lainnya tersedia mulai dari makanan berat hingga camilan, seperti pasta, appetizer & american meal, soup & salad, burger & bread tast, rice, steak, american breakfast.",
+					"fasilitas":"Tidak Ada Keterangan"
+				},
+
+				{
+					"id":11,
+					"nama":"UpNormal Purwokerto",
+					"alamat":"Jalan HR. Bunyamin No.677, Dukuhbandong, Grendeng, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53121",
+					"nomor_telp":"+6281646858111",
+					"kordinat":"-7.4051274, 109.2429374",
+					"gambar_url":"https://fakta.co.id/wp-content/uploads/2020/08/UpNormal-Purwokerto.jpg",
+					"tarif":"-",
+					"jam":"10.00 - 23.00",
+					"kategori":"Cafe",
+					"desc":"Tempat nongkrong lainnya yakni warung Upnormal Purwokerto yang juga terdapat di kota-kota lain seperti bandung dan Jogja atau sekitar 19 kota besar lainnya. Menu di sini terkenal dengan menu sajian indomie dengan masakan spesial. Untuk bisa nongkrong di UpNormal Purwokerto, Anda bisa datang langsung di Jl.HR Bunyamin No 677. Warung kopi ini selain tempatnyaenak dan menarik, juga sangat instagrammable dengan fasilitas free WiFi dan menu menarik sepertiRoti Bakar, aneka dessert, Kopi, Susu segardan lain-lain. Desain yang menarik membuat para pengunjung selalu mengabadikan moment berkumpul mereka di berbagai lini sosial media. Selain tersedia Wifi gratis, di sini juga tersedia meeting room, dan smooking room di area yang terpisah. Selain itu, lokasinya juga tidak jauh dengan Universitas besar di Purwokerto yakni Universitas Jendral Sudirman (UNSUD).",
+					"fasilitas":"Free WiFi"
+				},
+
+				{
+					"id":12,
+					"nama":"Level Up Purwokerto",
+					"alamat":"Jl. Stadion Mini 1 No.1, Karangbawang, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+					"nomor_telp":"+628112686660",
+					"kordinat":"-7.4324079, 109.2406815",
+					"gambar_url":"https://fakta.co.id/wp-content/uploads/2020/08/Level-Up-Purwokerto.jpg",
+					"tarif":"-",
+					"jam":"16.00 - 00.00",
+					"kategori":"Cafe",
+					"desc":"Meskipun merupakan kota kecil, di kota ini juga terdaat banyak warung kopi atau tempat nongkrong yang buka 24 jam louh. Salah satunya yakni Level Up Purwokerto yang berada di Jl. Stadion Mini No. 1 Purwokerto Selatan atau berada di depan Rajawalli Cinema Purwokerto. Asyiknya, cafe ini memiliki dua konsep yakni konsep indoor dan aotdoor sehingga pengunjung memiliki pilihan sesuai dengan kebutuhan dan mood.",
+					"fasilitas":"Tidak Ada Keterangan"
+				},
+
+				{
+					"id":13,
+					"nama":"Waroenk Ora Umum Purwokerto",
+					"alamat":"Jl. DR. Soeparno No.98, Arcawinangun, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53113",
+					"nomor_telp":"+628112993333",
+					"kordinat":"-7.415478, 109.2520578",
+					"gambar_url":"https://fakta.co.id/wp-content/uploads/2020/08/Waroenk-Ora-Umum-Purwokerto.jpg",
+					"tarif":"-",
+					"jam":"24 Jam",
+					"kategori":"Cafe",
+					"desc":"Waroenk Ora Umum dalam Bahasa Indonesia Berarti Warung Tidak Biasa. Kini tempat ini fenomenal di kalangan muda-mudi Purwokerto dan menjadi pilihan menarik untuk tempat nongkrong yang buka 24 jam. Cafe ini menjadi favorit masyarakat, buktinya tidak pernah sepi dari pengunjung yang menghabiskan waktu atau bekerja di tempat ini. Hal tersebut tentu saja karena tempat ini memiliki daya tarik tersendiri yakni tempat yang asyik, makanan dan minuman yang enak, dan juga 24 jam. Waroenk Ora Normal ini berada di Jl. DR. Soeparno No. 98 Arcawinangun, Purwokerto Timur.",
+					"fasilitas":"Free Wifi"
 				}
 				
 				
