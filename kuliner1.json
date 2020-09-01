@@ -98,7 +98,35 @@
 					"kategori":"Kuliner",
 					"desc":"Jika Anda tertarik untuk mencicipi citarasa makanan yang berbeda yang ditawarkan oleh beberapa makanan khas di Banyumas, maka kraca harus menjadi salah satu daftar makanan yang harus Anda coba ketika Anda berkunjung ke Banyumas. Anda akan menemukan makanan yang terbuat dari bahan dasar keong kecil. Keong ini biasanya memiliki habitat di sawah dan nantinya akan dimasak dengan menggunakan bumbu khas Banyumas seperti bawan, merica, pala dan juga garam dan ditambah bumbu-bumbu lainnya untuk menonjolkan citarasa berbeda dari makanan ini.",
 					"fasilitas":"Tidak Ada keterangan"
-				}			
+				},
+				
+				{
+					"id":8,
+					"nama":"Society Coffee Purwokerto",
+					"alamat":"Sebelah Rumah Makan Iga Sapi Bali, Jl. Prof. Dr. Suharso Kelurahan No.9B, Arcawinangun, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53113",
+					"nomor_telp":"+628112821168",
+					"kordinat":"-7.4176627, 109.2501073",
+					"gambar_url":"https://nyero.id/wp-content/uploads/2018/02/Nongkrong-Asik-di-Society-Coffee-House-Purwokerto.png",
+					"tarif":"-",
+					"jam":"11.00 - 00.00",
+					"kategori":"Cafe",
+					"desc":"Societty Coffee House asik buat nongkrong sama temen-temen sambil ngopi. Apalagi interiornya mendukung banget buat foto-foto. Wah makin betah buat lama-lama disini 😄😄. Seperti namanya, sudah pasti Society menjual berbagai macam minuman yang berbahan dasar kopi baik yang panas atau yang dingin. Tapi, kalo kamu kurang suka kopi, Society juga menjual minuman yang non-coffee. Kalo ngumpul-ngumpul lebih asik kalo ada temen ngemilnya juga dong. Society juga menjual camilan seperti waffle, kue, dan pudding buat temen ngopimu.",
+					"fasilitas":"Tidak Ada Keterangan"
+				},
+
+				{
+					"id":9,
+					"nama":"Praketa Kopi",
+					"alamat":"Jl. H.R Boenyamin No.129 Desa Bancarkembar Kec. Purwokerto Utara, Dukuhbandong, Grendeng, Banyumas, Kabupaten Banyumas, Jawa Tengah 52212",
+					"nomor_telp":"+6282323736321",
+					"kordinat":"-7.4035257, 109.2426953",
+					"gambar_url":"https://nyero.id/wp-content/uploads/2018/02/Nongkrong-Asik-di-Praketa-Kopi-Purwokerto.png",
+					"tarif":"-",
+					"jam":"09.00 - 23.30",
+					"kategori":"Cafe",
+					"desc":"Bagi penikmat kopi di Purwokerto, nama Praketa Kopi pasti sudah tidak asing lagi. Sebuah kedai kopi di dekat kampus UNSOED yang hampir selalu ramai pengunjung dari berbagai kalangan. Dari yang sekedar menikmati kopi menghabiskan waktu, mengerjakan tugas kuliah, kerjaan atau menunggu partner, ditemani kopi dan cemilan dan free wifi. Di Praketa Kopi bisa pilih ruang AC buat ngadem dan bebas asap rokok, non AC dan outdoor kalo mau nyambi ngerokok. Selain kopi yang semuanya manual brew, ada beberapa cemilan / makanan berat kalo kamu kelaparan. Suasananya cukup asyik dan buat yang suka main sosmed, tempat ini cukup instagramable, apalagi didukung koneksi internet gratis, poto langsung eksis di sosmed deh heheh. Oh iya, Praketa Kopi buka setiap hari senin – minggu dari jam 9 pagi hingga 11.30 malam.",
+					"fasilitas":"Wifi Gratis, Ruangan Ac"
+				}
 				
 				
 			]
