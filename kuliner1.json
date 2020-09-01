@@ -55,9 +55,50 @@
 					"kategori":"Kuliner",
 					"desc":"Makanan selanjutnya yang bisa Anda temukan dari Banymas adalah makanan yang dikenal dengan nama yang cukup aneh yaitu Nopia. Nama makanan ini sendiri sebenarnya cukup mirip dengan merek dari handphone. Namun tidak ada hubungan dari makanan ini dengan merek handphone yang cukup populer beberapa waktu yang lalu. Bentuk dari makanan ini sendiri adalah lonjong dan berbentuk seperti telur ayam. Dari luar, nopia berwarna putih, namun di dalamnya makanan ini memiliki isian gular merah. Beberapa nopia juga diisi dengan coklat, durian dan juga pandan. Anda juga bisa menemukan salah satu citarasa bawang merah yang membuatnya menjadi salah satu pilihan oleh-oleh yang berbeda.",
 					"fasilitas":"Tidak ada keterangan"
-				}
+				},
 
 				
+				{
+					"id":5,
+					"nama":"Keripik Tempe",
+					"alamat":"Jl. Pramuka No.221 A, Pertabatan, Purwokerto Kidul, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53147",
+					"nomor_telp":"+6285101614325",
+					"kordinat":"-7.42921, 109.2520344",
+					"gambar_url":"https://s2.bukalapak.com/img/7681724341/large/KERIPIK_TEMPE_NITI.jpg",
+					"tarif":"Rp.20.000/Bungkus",
+					"jam":"08.00 - 17.00",
+					"kategori":"Kuliner",
+					"desc":"Salah satu oleh-oleh lainnya yang meskipun terlihat biasa, oleh-oleh tersebut sebenarnya cukup spesial dibandingkan beberapa oleh-oleh lainnya di mana Anda hanya akan menemukan citarasa yang berbeda untuk kripik tempe yang berasal dari daerah Banyumas ini. Salah satu yang cuup menarik dari kripik ini adalah rasanya yang nikmat. Namun saat ini sudah banyak tempat-tempat lain yang juga menawarkan kripik tempe sebagai makanan oleh-oleh khas bukan hanya dari Banyumas saja",
+					"fasilitas":"Tidak ada keterangan"
+				},
+
+				{
+					"id":6,
+					"nama":"Lanting",
+					"alamat":"Jl. Situmpur No.85, Karangbawang, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+					"nomor_telp":"+62281632865",
+					"kordinat":"-7.4291833, 109.2454683",
+					"gambar_url":"https://ecs7.tokopedia.net/img/cache/700/product-1/2016/2/5/5440065/5440065_57c7e068-3780-4c7d-8fcb-08939966ec8f.jpg",
+					"tarif":"Rp.11.000/250gr",
+					"jam":"07.00 - 20.30",
+					"kategori":"Kuliner",
+					"desc":"Makanan khas selanjutnya yang juga sudah cukup populer dan dikenal sebagai salah satu makanan khas dari daerah Banymas dan sekitarnya adalah lanting. Sama dengan kripik tempe, makanan ini sendiri juga sudah banyak ditemukan di beberapa daerah lainnya di Indonesia dan menjadi salah satu makanan khas dari daerah tersebut. Bentuk makanan ini sendiri seperti angka delapan atau seperti lingkaran-lingkaran kecil. Makanan ini sendiri terbuat dari singkong dan memiliki rasa asin dan gurih. Dengan semakin banyaknya permintaan dan juga inovasi yang dilakukan oleh setiap pembuat makanan ini, Anda juga akan menemukan beberapa pilihan rasa lainnya seperti pedas dan keju.",
+					"fasilitas":"Tidak ada keterangan"
+				},
+
+				{
+					"id":7,
+					"nama":"Kraca",
+					"alamat":"Purwanegara Desa, Jl. Bobosan, RT.06/RW.01, Karangjambu, Purwanegara, North Purwokerto, Banyumas, Central Java 53127",
+					"nomor_telp":"+6287848139227",
+					"kordinat":"7.4290754, 109.2192034",
+					"gambar_url":"https://img-global.cpcdn.com/recipes/20c01f84483f7f4a/751x532cq70/pedesan-kraca-dan-keong-bikin-ramadhan-berkesan-foto-resep-utama.jpg",
+					"tarif":"Rp.2000/Bungkus",
+					"jam":"12.00 - 21.00",
+					"kategori":"Kuliner",
+					"desc":"Jika Anda tertarik untuk mencicipi citarasa makanan yang berbeda yang ditawarkan oleh beberapa makanan khas di Banyumas, maka kraca harus menjadi salah satu daftar makanan yang harus Anda coba ketika Anda berkunjung ke Banyumas. Anda akan menemukan makanan yang terbuat dari bahan dasar keong kecil. Keong ini biasanya memiliki habitat di sawah dan nantinya akan dimasak dengan menggunakan bumbu khas Banyumas seperti bawan, merica, pala dan juga garam dan ditambah bumbu-bumbu lainnya untuk menonjolkan citarasa berbeda dari makanan ini.",
+					"fasilitas":"Tidak Ada keterangan"
+				}			
 				
 				
 			]
