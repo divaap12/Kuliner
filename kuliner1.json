@@ -99,7 +99,7 @@
 					"desc":"Jika Anda tertarik untuk mencicipi citarasa makanan yang berbeda yang ditawarkan oleh beberapa makanan khas di Banyumas, maka kraca harus menjadi salah satu daftar makanan yang harus Anda coba ketika Anda berkunjung ke Banyumas. Anda akan menemukan makanan yang terbuat dari bahan dasar keong kecil. Keong ini biasanya memiliki habitat di sawah dan nantinya akan dimasak dengan menggunakan bumbu khas Banyumas seperti bawan, merica, pala dan juga garam dan ditambah bumbu-bumbu lainnya untuk menonjolkan citarasa berbeda dari makanan ini.",
 					"fasilitas":"Tidak Ada keterangan"
 				},
-				
+
 				{
 					"id":8,
 					"nama":"Society Coffee Purwokerto",
@@ -127,13 +127,13 @@
 					"desc":"Bagi penikmat kopi di Purwokerto, nama Praketa Kopi pasti sudah tidak asing lagi. Sebuah kedai kopi di dekat kampus UNSOED yang hampir selalu ramai pengunjung dari berbagai kalangan. Dari yang sekedar menikmati kopi menghabiskan waktu, mengerjakan tugas kuliah, kerjaan atau menunggu partner, ditemani kopi dan cemilan dan free wifi. Di Praketa Kopi bisa pilih ruang AC buat ngadem dan bebas asap rokok, non AC dan outdoor kalo mau nyambi ngerokok. Selain kopi yang semuanya manual brew, ada beberapa cemilan / makanan berat kalo kamu kelaparan. Suasananya cukup asyik dan buat yang suka main sosmed, tempat ini cukup instagramable, apalagi didukung koneksi internet gratis, poto langsung eksis di sosmed deh heheh. Oh iya, Praketa Kopi buka setiap hari senin – minggu dari jam 9 pagi hingga 11.30 malam.",
 					"fasilitas":"Wifi Gratis, Ruangan Ac"
 				},
-				
+
 				{
 					"id":10,
 					"nama":"Kargloss Autocare & Cafe",
 					"alamat":"Jl. Raya Baturraden KM 5 Pabuaran - Purwokerto Utara, Karang Blimbing, Pabuaran, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53124",
 					"nomor_telp":"+62818262684",
-					"kordinat":"7.3869062, 109.2409799",
+					"kordinat":"-7.3869062, 109.2409799",
 					"gambar_url":"https://nyero.id/wp-content/uploads/2018/02/Nongkrong-Asik-di-Kargloss-Cafe-Purwokerto.png",
 					"tarif":"-",
 					"jam":"07.00 - 23.00",
@@ -182,6 +182,62 @@
 					"kategori":"Cafe",
 					"desc":"Waroenk Ora Umum dalam Bahasa Indonesia Berarti Warung Tidak Biasa. Kini tempat ini fenomenal di kalangan muda-mudi Purwokerto dan menjadi pilihan menarik untuk tempat nongkrong yang buka 24 jam. Cafe ini menjadi favorit masyarakat, buktinya tidak pernah sepi dari pengunjung yang menghabiskan waktu atau bekerja di tempat ini. Hal tersebut tentu saja karena tempat ini memiliki daya tarik tersendiri yakni tempat yang asyik, makanan dan minuman yang enak, dan juga 24 jam. Waroenk Ora Normal ini berada di Jl. DR. Soeparno No. 98 Arcawinangun, Purwokerto Timur.",
 					"fasilitas":"Free Wifi"
+				},
+
+				{
+					"id":14,
+					"nama":"Dapoer Djagongan",
+					"alamat":"Karang Bawang, Jl Gn Merapi Bancarkembar, Karang Bawang, Grendeng, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53122",
+					"nomor_telp":"+628122990099",
+					"kordinat":"-7.4095057, 109.2443163",
+					"gambar_url":"https://fakta.co.id/wp-content/uploads/2020/08/Dapoer-Djagongan.jpg",
+					"tarif":"-",
+					"jam":"11.00 - 22.00",
+					"kategori":"Cafe",
+					"desc":"Berbagai komunitas yang ada di Purwokerto memiliki tempat ngopi favorit yakni Djagongan Cafe. Bahkan bisa dikatakan Cafe ini merupakan rumah anak-anak komunitas di Prwekerto. Karena itu, Djagongan Cafe tidak pernah sepi dari pengunjung. DI sini juga sering diadakan pementasan dari berbagai kounitas yang ada di Purwokerto seperti komunitas Stand Up Comedy Purwokerto, Akustik Purwokerto dan lain-lain. Anda bisa datang ke Jl. Gn Merapi Bancarkembar Purwokerto Utara.",
+					"fasilitas":"Pementasan Stand Up Comedy Purwokerto, Akustik Purwokerto"
+				},
+
+				{
+					"id":15,
+					"nama":"Nicetime Cafe",
+					"alamat":"Pereng, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"+622816510422",
+					"kordinat":"-7.4246174, 109.2253297",
+					"gambar_url":"https://fakta.co.id/wp-content/uploads/2020/08/Nicetime-Cafe.jpg",
+					"tarif":"-",
+					"jam":"24 Jam",
+					"kategori":"",
+					"desc":"Nicetime cafe ini berada di dekat alun-alun Purwokerto yang juga menjadi salah satu tempat nongkrong favorit yang buka 24 jam. Di Nicetime Cafe ini sering diadakan nonton bareng atau menampilkan pertunjukan-pertunjukan band-band hadcore. Untuk bisa mencicipi hidangan di Nicetime Cafe ini Anda bisa datang langsung di Sokanegara, Purwokerto Timur, Kabupaten Banyumas.",
+					"fasilitas":"Tidak Ada Keterangan"
+				},
+
+				{
+					"id":16,
+					"nama":"Umaeh Inyong",
+					"alamat":"Jl. A. Yani No.47, Karanganjing, Kedungwuluh, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"+6285100759000",
+					"kordinat":"-7.4125163, 109.2282635",
+					"gambar_url":"https://fakta.co.id/wp-content/uploads/2020/08/Umaeh-Inyong.jpg",
+					"tarif":"-",
+					"jam":"09.00 - 22.00",
+					"kategori":"Cafe",
+					"desc":"Namanya saja sudah khas ngapak ‘Umaeh Inyong’ artinya Rumah Aku. Di Umaeh Inyong ini merupakan salah satu tempat nongkrong di Purwokerto dengan aneka menu makanan dengan selera Banyumasan. Jika penasaran langsung saja datangi lokasinya di Jl. Ahmad Yani No 43, Kota Purwokerto ‘Tempoe Doeloe’. Bangunan maupun desain interior di sini dibuat seantik mungkin dengan hiasan seperti foto-foto lamakota Purwokerto yang terpajang di dinding-dinding. Tempat ini fleksibel untuk berbagai acara apakah arisan, kumpul keluarga, gathering, atau bahkan sekadar reunian.",
+					"fasilitas":"Tidak Ada Keterangan"
+				},
+
+				{
+					"id":17,
+					"nama":"MP Pavilion Steak N Pancake",
+					"alamat":"Jl. Mt Haryono No.140, Purwokerto Wetan, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53111",
+					"nomor_telp":"081 327 123 500",
+					"kordinat":"-7.4254068, 109.2512115",
+					"gambar_url":"https://3.bp.blogspot.com/--UP8iMpc9zM/VmKQOJBjplI/AAAAAAAAADI/mMTLpWS2NmM/s1600/IR5A1895.JPG",
+					"tarif":"-",
+					"jam":"09.00 - 22.00",
+					"kategori":"Cafe",
+					"desc":"MP Pavilion Steak N Pancake adalah tempat nongkrong di Purwokerto yang Lokasinya berada di Jalan MT Haryono No 140, Purwokerto. Jika Anda berkunjung ke kota Purwokerto dan hendak mencicipi aneka kuliner di kota ini Anda bisa datang ke Tempat kuliner MP Pavilion Steak N Pancake.",
+					"fasilitas":"Tidak Ada Keterangan"
 				}
 				
 				
