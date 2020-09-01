@@ -27,7 +27,36 @@
 					"kategori":"Kuliner",
 					"desc":"coba-coba",
 					"fasilitas":"Tidak ada keterangan"
+				},
+				
+				{
+					"id":3,
+					"nama":"Jenang Jaket",
+					"alamat":"Jl. PKK No.600, Mersi, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53112",
+					"nomor_telp":"+62281633745",
+					"kordinat":"-7.4274824, 109.2638709",
+					"gambar_url":"https://4.bp.blogspot.com/-8Dm7wgaPsT4/VCWCnAK9DFI/AAAAAAAAAY0/r6TDehFe8a0/s1600/jenang%2Bjaket.jpg",
+					"tarif":"Rp.16.000/Bungkus",
+					"jam":"08.00 - 19.00",
+					"kategori":"Kuliner",
+					"desc":"Anda mungkin belum pernah mendengan makanan yang bernama jenang jaket yang mungkin cukup aneh terdengar di telinga. Namun makanan ini menjadi salah satu makanan khas daerah Banyumas di mana makanan ini menawarkan citarasa manis yang terbuat dari gula merah, santan kelapa dan juga beras ketan. Selain itu, jenang ini sendiri memiliki kekhasan sendiri di mana untuk membuatnya berbeda dari jenang-jenang lainnya, jenang jaket ini sendiri dibungkus menggunakan bungkus kertas kecil-kecil yang bisa dimakan dalam sekali suap.",
+					"fasilitas":"Tidak ada keterangan"
+				},
+
+				{
+					"id":4,
+					"nama":"Nopia",
+					"alamat":"Jl. Situmpur No.87, Kongsen, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+					"nomor_telp":"-",
+					"kordinat":"-7.4274289, 109.24855",
+					"gambar_url":"https://3.bp.blogspot.com/-RFVpsF4bQ68/VuzHJtHrPwI/AAAAAAAAAIc/3_UQOShQJ7cARfkVfHebkW78RwDww_Hng/s1600/Mino-trendpwt.jpg",
+					"tarif":"Rp.9.000 - Rp.15.000/Bungkus",
+					"jam":"08.00 - 21.00",
+					"kategori":"Kuliner",
+					"desc":"Makanan selanjutnya yang bisa Anda temukan dari Banymas adalah makanan yang dikenal dengan nama yang cukup aneh yaitu Nopia. Nama makanan ini sendiri sebenarnya cukup mirip dengan merek dari handphone. Namun tidak ada hubungan dari makanan ini dengan merek handphone yang cukup populer beberapa waktu yang lalu. Bentuk dari makanan ini sendiri adalah lonjong dan berbentuk seperti telur ayam. Dari luar, nopia berwarna putih, namun di dalamnya makanan ini memiliki isian gular merah. Beberapa nopia juga diisi dengan coklat, durian dan juga pandan. Anda juga bisa menemukan salah satu citarasa bawang merah yang membuatnya menjadi salah satu pilihan oleh-oleh yang berbeda.",
+					"fasilitas":"Tidak ada keterangan"
 				}
+
 				
 				
 				
