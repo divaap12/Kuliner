@@ -240,6 +240,20 @@
 					"fasilitas":"Tidak Ada Keterangan"
 				}
 				
+				{
+					"id":18,
+					"nama":"coba",
+					"alamat":"Jl. Mt Haryono No.140, Purwokerto Wetan, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53111",
+					"nomor_telp":"081 327 123 500",
+					"kordinat":"-7.4254068, 109.2512115",
+					"gambar_url":"https://3.bp.blogspot.com/--UP8iMpc9zM/VmKQOJBjplI/AAAAAAAAADI/mMTLpWS2NmM/s1600/IR5A1895.JPG",
+					"tarif":"-",
+					"jam":"09.00 - 22.00",
+					"kategori":"Cafe",
+					"desc":"MP Pavilion Steak N Pancake adalah tempat nongkrong di Purwokerto yang Lokasinya berada di Jalan MT Haryono No 140, Purwokerto. Jika Anda berkunjung ke kota Purwokerto dan hendak mencicipi aneka kuliner di kota ini Anda bisa datang ke Tempat kuliner MP Pavilion Steak N Pancake.",
+					"fasilitas":"Tidak Ada Keterangan"
+				}
+				
 				
 			]
 }
